@@ -5,4 +5,4 @@ answer questions/type answers
 npm install nodemon --save-dev
 add dev to package.json scripts ,
     "dev": "nodemon server.js"
-check and run npx nodemon server.js
+check and run: npx nodemon server.js
